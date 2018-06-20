@@ -8,7 +8,7 @@
 </p>
 
 ## View Live portfolio application:
-https:// 
+https://
 
 | Sketch Application |
 | :------- |
@@ -34,15 +34,13 @@ _This webpage application is designed for users to search for plants they're int
 | Profile Component: User can view/edit their profile and make any changes to update it | In Progress |
 
 
-
-
-
 | Future Features | Status |
 |:----------|
 | Pull from a larger database to obtain more information on plants: https://uofi.app.box.com/v/usdaplants/file/54438714597 | In Progress |
 | Calendar Component: User can access the Calendar and view watering and fertilizing scheduled dates for their plants | In Progress |
 | Calendar Component: User will be able to remove tasks off the calendar once they are complete | In Progress |
 | Add Component: If the user doesn't know the type of plate they will be able to take a photo of their plant to search the database for more information | In Progress |
+| Add Parallax Features on the Homepage | ![Screenshot of Sketch Parallax Design](src/img/sketchParallax.png) |
 
 
 ## <span style="color:#74875d;">Known Bugs</span>
