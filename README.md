@@ -8,6 +8,12 @@
 </p>
 
 ## View Live portfolio application:
+https:// 
+
+| Sketch Application |
+| :------- |
+| ![Sketch Design for Nurture](src/img/sketch.png) |
+
 
 ## <span style="color:#74875d;">Description</span>
 
@@ -18,7 +24,7 @@ _This webpage application is designed for users to search for plants they're int
 * Clone repository on your local computer.
 * Open Index.html in a browser Window
 
-| Features | Status | 
+| Features | Status |
 |:----------|:----------|
 | Login: User can log into their profile | In Progress |
 | Login: User can sign up for an account | In Progress |  
