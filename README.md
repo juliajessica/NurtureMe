@@ -35,7 +35,7 @@ _This webpage application is designed for users to search for plants they're int
 
 
 | Future Features | Status |
-|:----------|
+|:----------|:----------|
 | Pull from a larger database to obtain more information on plants: https://uofi.app.box.com/v/usdaplants/file/54438714597 | In Progress |
 | Calendar Component: User can access the Calendar and view watering and fertilizing scheduled dates for their plants | In Progress |
 | Calendar Component: User will be able to remove tasks off the calendar once they are complete | In Progress |
