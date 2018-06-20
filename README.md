@@ -33,7 +33,6 @@ _This webpage application is designed for users to search for plants they're int
 | Add Component: User can view all plants in their garden box and add or remove them | In Progress |
 | Profile Component: User can view/edit their profile and make any changes to update it | In Progress |
 
-
 | Future Features | Status |
 |:----------|:----------|
 | Pull from a larger database to obtain more information on plants: https://uofi.app.box.com/v/usdaplants/file/54438714597 | In Progress |
@@ -49,11 +48,11 @@ _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@g
 
 ## <span style="color:#74875d;">Technologies Used</span>
 
-| Frontend Dependencies |
+| Libraries and Languages |
 | :------------ |
-| Webpack |
-| CSS(Sass) |
-| Bootstrap |
+| React, Redux & JSX |
+| Webpack, Babel |
+| CSS(Sass) & Bootstrap |
 | JavaScript (JQuery) |
 
 ### <span style="color:#74875d;">License</span>
