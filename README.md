@@ -12,7 +12,7 @@ https://
 
 | Sketch Application |
 | :------- |
-| ![Sketch Design for Nurture](src/img/sketch.png) |
+| ![Sketch Design for Nurture](src/img/sketch2.png) |
 
 
 ## <span style="color:#74875d;">Description</span>

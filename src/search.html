@@ -1,0 +1,6 @@
+<img src="assets/img/arrow-left.svg"><input type="text" placeholder="SEARCH">
+
+<div class="item" *ngFor="let plant of plants | async">
+  <img src="{{plant.image}}" alt="image of nurture plant">
+  <h1>{{plant.name}}</h1>
+</div>
