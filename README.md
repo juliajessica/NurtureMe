@@ -50,10 +50,11 @@ _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@g
 
 | Libraries and Languages |
 | :------------ |
-| React, Redux & JSX |
+| React, Redux, React-Redux, JSX |
 | Webpack, Babel |
 | CSS(Sass) & Bootstrap |
 | JavaScript (JQuery) |
+
 
 ### <span style="color:#74875d;">License</span>
 
